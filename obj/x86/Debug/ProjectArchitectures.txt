@@ -1,0 +1,1 @@
+F:\VPL Assignments\StopWatch-UWP\StopWatch-UWP.csproj;x86
